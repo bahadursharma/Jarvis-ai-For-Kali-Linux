@@ -11,10 +11,10 @@ def Send_massege_on_Whatsapp():
     contact_name = Listen().lower()
     
     if contact_name == "papa":
-     contact_name = "+918226098666"
+     contact_name = "+91"
     
     elif contact_name == "girlfriend":
-       contact_name = "+919413512895"
+       contact_name = "+91"
 # Get the message to send
     speak("what i should i send sir ")
     message = Listen().lower() 
