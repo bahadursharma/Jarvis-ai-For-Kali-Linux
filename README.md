@@ -15,7 +15,7 @@ Kali Jarvis is a Python-based virtual assistant designed for automation and cont
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/kali-jarvis.git
+    https://github.com/AnubhavChaturvedi-GitHub/jarvis-kali-ai.git
     ```
 
 2. Install dependencies:
