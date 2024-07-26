@@ -15,7 +15,7 @@ from checkip import check_ip_using_wifi
 import pyautogui as gui
 from batterycharging import plug_check
 import threading
-from timesp import check_time
+from time import check_time
 from openlinkedin import open_linkedin
 import webbrowser
 from sendmassegeonwhatsapp import Send_massege_on_Whatsapp
